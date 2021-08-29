@@ -1,0 +1,32 @@
+.container{
+	align-items: center;
+	max-width: 800px;
+	max-height: 500px;
+	margin: 30%;
+	padding: auto;
+	background-color: snow;
+}
+
+.col{
+	background-color: snow;
+}
+.custom-shape-divider-bottom-1630216256 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1630216256 svg {
+    position: relative;
+    display: block;
+    width: calc(181% + 1.3px);
+    height: 365px;
+}
+
+.custom-shape-divider-bottom-1630216256 .shape-fill {
+    fill:linear-gradient(191deg, rgba(16,29,245,1) 0%, rgba(14,116,228,1) 38%, rgba(0,255,218,1) 100%);
+}
